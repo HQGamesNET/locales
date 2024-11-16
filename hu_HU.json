@@ -18,7 +18,7 @@
 
                 "ui.text.selectLanguage": "Itt választhatsz egy nyelvet.",
 
-                "ui.button.close": "§cbezárni",
+                "ui.button.close": "§cmégse",
                 "ui.button.back": "§cmégse",
                 "ui.button.selectPlus": "§epluszot választani",
                 "ui.button.selectMinus": "§eminuszt választani",
@@ -36,7 +36,7 @@
                 "languageApi.errorUpdateLanguage": "{PREFIX} §cHiba történt a nyelv-frissítésével.",
                 "message.alreadyVerified": "{PREFIX} §7Már igazolva vagy.",
                 "message.playerNotFound": "{PREFIX} §cEz a játékos nincs online.",
-                "message.notEnoughCoins": "{PREFIX} §cNincs elég Coin:od.",
+                "message.notEnoughCoins": "{PREFIX} §cNincs elég érméd.",
                 "message.onlyNickInLobby": "{PREFIX} §cCsak a Lobbyban tudsz magadnak egy becenevet adni.",
                 "message.nickEnabled": "{PREFIX} §aMost beceneved van.",
                 "message.nickDisabled": "{PREFIX} §cMost már nincsen becenevet.",
