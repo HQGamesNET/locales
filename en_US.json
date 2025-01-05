@@ -48,7 +48,7 @@
 		"message.alreadyHaveVerifyCode": "{PREFIX} §cYou have already an verify code. §8(§b#0#§8)",
 		
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
-		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7#1#."
+		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7coins."
 		
 		"message.yourOnlineTime": "{PREFIX} §7Your playtime is §e#0#§7.",
 		
