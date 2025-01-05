@@ -14,43 +14,74 @@
 		"raw.days": "days",
 		
 		"ui.title.selectLanguage": "Select a Language",
-		"ui.title.clans": "§5Clans",
+		"ui.title.chooseReport": "§cChoose a report",
 		
 		"ui.text.selectLanguage": "Here you can select a language",
+		"ui.text.reportsOpen": "§cCurrently are §7#0# §creports open",
 		
 		"ui.button.close": "§cclose",
 		"ui.button.back": "§cback",
-		"ui.button.selectPlus": "§eSelect Plus",
-		"ui.button.selectMinus": "§eSelect Minus",
-		"ui.button.clans.search": "§3Search clans",
-		"ui.button.clans.info": "§3Clan info",
-		"ui.button.clans.invite": "§3Invite player",
-		"ui.button.clans.manage": "§3Manage Clan",
-		"ui.button.clans.manage.image": "§3Clan Image",
-		"ui.button.clans.manage.tag_color": "§3Tag Color",
-		"ui.button.clans.manage.clam_color": "§3Clam Color",
-		"ui.button.clans.manage.members": "§3Edit Members",
-		"ui.button.clans.manage.delete": "Delete Clan",
+		"ui.button.noReportsFound": "§cNo reports found",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7.",
 		"languageApi.errorUpdateLanguage": "{PREFIX} §cAn error has occurred while selecting your language.",
-		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
+		
+		"message.commandNotFound": "{PREFIX} §c§cThe command §4/#0# §cwas not found.",
+		
+		"message.dontAdvertise": "{PREFIX} §cPlease make sure that your message does not contain any advertising.",
+		"message.dontUseInsults": "{PREFIX} §cPlease make sure that your message does not contain any bad words.",
+		"message.chatAgainIn": "{PREFIX} §cYou can chat again in §e#0# §cseconds.",
+		"message.dontRepeatYourself": "{PREFIX} §cPlease don't repeat yourself.",
+		
 		"message.playerNotFound": "{PREFIX} §cThis player isn't online.",
-		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
+		"message.playerNotExists": "{PREFIX} §cThis player don't exists.",
+		
+		"message.pleaseProvideAMessage": "{PREFIX} §cPlease provide a message.",
+		
 		"message.onlyNickInLobby": "{PREFIX} §c/nick command can only be used in the lobby.",
 		"message.nickEnabled": "{PREFIX} §aYou are nicked now.",
 		"message.nickDisabled": "{PREFIX} §cYour nickname was removed.",
-		"message.verifyCodeExpiresIn": "{PREFIX} §7Your verification code §8(§e#0#§8) §7expires in §e#1#§7.",
+		"message.nick.error": "{PREFIX} §cError whilst nicking. Please report this to an Administrator!",
+		
+		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
+		"message.yourVerifyCode": "{PREFIX} §7Your verification code: §e#0#",
+		"message.alreadyHaveVerifyCode": "{PREFIX} §cYou have already an verify code. §8(§b#0#§8)",
+		
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
-		"message.boughtBoots": "{PREFIX} §7You bought the §e#0# §7boots.",
-		"message.boughtParticle": "{PREFIX} §7You bought the §e#0# §7particles.",
-
-		"message.cancelledPurchase": "{PREFIX} §cYou have cancelled your purchase.",
-		"message.yourOnlineTime": "{PREFIX} §7Your online time is §e#0#§7.",
-
-		"message.cancelledPurchase": "{PREFIX} §cYou cancelled your purchase.",
-		"message.yourOnlineTime": "{PREFIX} §7Your playtime is §e#0#§7.",
-
 		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7#1#."
+		
+		"message.yourOnlineTime": "{PREFIX} §7Your playtime is §e#0#§7.",
+		
+		"message.whereAmI.currentlyOnlyOn": "{PREFIX} §7You are currently online on §e#0#§7.",
+		"message.whereIs.currentlyOnlyOn": "{PREFIX} §e#0# §cis online on server §e#1#§7.",
+		
+		"message.team.cantBanYourself": "{PREFIX} §cYou can't ban yourself.",
+		"message.team.cantBanPlayer": "{PREFIX} §cYou can't ban this player.",
+		"message.team.playerAlreadyBanned": "{PREFIX} §cThis player is already banned.",
+		"message.team.playerAlreadyMuted": "{PREFIX} §cThis player is already muted.",
+		"message.team.playerNotBanned": "{PREFIX} §cThis user isn't banned.",
+		"message.team.playerNotMuted": "{PREFIX} §cThis user isn't muted.",
+		"message.team.playerBanned": "{PREFIX} §aYou have banned the player §e#0# §abecause of §c#1#§7.",
+		"message.team.playerMuted": "{PREFIX} §aYou have muted the player §e#0# §abecause of §c#1#§7.",
+		"message.team.playerUnBanned": "{PREFIX} §cYou have unbanned the player §e#0# §csuccessfully§7.",
+		"message.team.playerUnMuted": "{PREFIX} §cYou have unmuted the player §e#0# §csuccessfully§7.",
+		"message.team.banIdDoesNotExists": "{PREFIX} §cThis ban id don't exists.",
+		"message.team.notLoggedIn": "{PREFIX} §cYou are not logged in into the team system.",
+		"message.team.loggedIn": "{PREFIX} §aYou are now logged in into the team system.",
+		"message.team.loggedOut": "{PREFIX} §cYou are now logged out from the team system.",
+		
+		"message.report.cantReportYourself": "{PREFIX} §cYou can't report yourself§7.",
+		"message.report.playerAlreadyReported": "{PREFIX} §cThis player has already been reported§7.",
+		"message.report.createdSuccessfully": "{PREFIX} §aYour report was created successfully§7.",
+		"message.report.claimedSuccessfully": "{PREFIX} §aYou have claimed this report successfully§7.",
+		"message.report.accepted": "{PREFIX} §aYou have the report against §e#0# §aaccepted and the player was punished§7.",
+		"message.report.denied": "{PREFIX} §cYou have the report against §e#0# §cdenied and the player was not punished§7.",
+		"message.report.currentReportCount": "{PREFIX} §aCurrently are §e#0# §areports opened§7.",
+		"message.report.noReports": "{PREFIX} §cCurrently are no reports open§7.",
+		
+		"message.rank.rankExpired": "{PREFIX} §cYour rank has expired.",
+		
+		"message.error.reasonEmpty": "{PREFIX} §cReason can't be empty.",
+		"message.error.playerEmpty": "{PREFIX} §cPlayer name can't be empty."
 	}
 }
