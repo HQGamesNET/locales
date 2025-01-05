@@ -38,7 +38,7 @@
 		
 		"message.pleaseProvideAMessage": "{PREFIX} §cPlease provide a message.",
 		
-		"message.onlyNickInLobby": "{PREFIX} §c/nick command can only be used in the lobby.",
+		"message.onlyNickInLobby": "{PREFIX} §cThe /nick command can only be used in the lobby.",
 		"message.nickEnabled": "{PREFIX} §aYou are nicked now.",
 		"message.nickDisabled": "{PREFIX} §cYour nickname was removed.",
 		"message.nick.error": "{PREFIX} §cError whilst nicking. Please report this to an Administrator!",
