@@ -22,6 +22,10 @@
 		"ui.button.close": "§cclose",
 		"ui.button.back": "§cback",
 		"ui.button.noReportsFound": "§cNo reports found",
+		"ui.button.playWithGold": "§7Play with §6Gold",
+		"ui.button.playWithoutGold": "§7Play without §6Gold",
+		"ui.button.playWithDrops": "§7Play with §eItem Drops",
+		"ui.button.playWithoutDrops": "§7Play without §eItem Drops",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7.",
 		"languageApi.errorUpdateLanguage": "{PREFIX} §cAn error has occurred while selecting your language.",
@@ -80,6 +84,17 @@
 		"message.report.noReports": "{PREFIX} §cCurrently are no reports open§7.",
 		
 		"message.rank.rankExpired": "{PREFIX} §cYour rank has expired.",
+		
+		"message.game.waitingTimeSkipped": "{PREFIX} §aThe waiting time has been skipped§7.",
+		"message.game.waitingTimeAlreadySkipped": "{PREFIX} §cThe waiting time has already been skipped§7.",
+		"message.game.gameAlreadyRunning": "{PREFIX} §cThe game has already started§7.",
+		"message.game.countdownNotRunning": "{PREFIX} §cThe countdown has not started yet§7.",
+		"message.game.teamDestroyed": "{PREFIX} §7Team §r#0# §7was destroyed.",
+		"message.game.playerDied": "{PREFIX} §f#0# §cdied.",
+		"message.game.playerKilledBy": "{PREFIX} §f#0# §7was killed by §c#1#§7.",
+		"message.game.nowSpecator": "{PREFIX} §7You are now spectator.",
+		
+		"message.bedwars.youreEliminated": "{PREFIX} §cYou were eliminated because your bed was destroyed.",
 		
 		"message.error.reasonEmpty": "{PREFIX} §cReason can't be empty.",
 		"message.error.playerEmpty": "{PREFIX} §cPlayer name can't be empty."
