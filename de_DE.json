@@ -44,13 +44,13 @@
 		"message.nick.error": "{PREFIX} §cEin fehler ist beim nicken aufgetreten. Bitte melde dies bei einem Administrator!",
 		
 		"message.alreadyVerified": "{PREFIX} §cDu bist bereits verifiziert.",
-		"message.yourVerifyCode": "{PREFIX} §7Dein Verify Code: §e#0#",
-		"message.alreadyHaveVerifyCode": "{PREFIX} §cDu hast bereits einen Verify Code. §8(§b#0#§8)",
+		"message.yourVerifyCode": "{PREFIX} §7Dein Verifizierungscode ist: §e#0#",
+		"message.alreadyHaveVerifyCode": "{PREFIX} §cDu hast bereits einen Verifizierungscode. §8(§b#0#§8)",
 		
 		"message.notEnoughCoins": "{PREFIX} §cDu hast nicht genug Coins.",
 		"message.yourCoins": "{PREFIX} §7Du hast momentan §e#0# §7Coins."
 		
-		"message.yourOnlineTime": "{PREFIX} §7Deine Spielzeit beträgt §e#0#§7.",
+		"message.yourOnlineTime": "{PREFIX} §7Deine Onlinezeit beträgt §e#0#§7.",
 		
 		"message.whereAmI.currentlyOnlyOn": "{PREFIX} §7Du bist momentan online auf §e#0#§7.",
 		"message.whereIs.currentlyOnlyOn": "{PREFIX} §e#0# §cist momentan online auf §e#1#§7.",
@@ -61,18 +61,18 @@
 		"message.team.playerAlreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemuted.",
 		"message.team.playerNotBanned": "{PREFIX} §cDieser Spieler ist nicht gebannt.",
 		"message.team.playerNotMuted": "{PREFIX} §cDieser Spieler ist nicht gemuted.",
-		"message.team.playerBanned": "{PREFIX} §aDu hast den Spieler §e#0# §awegen §c#1# §agebannt§7.",
-		"message.team.playerMuted": "{PREFIX} §aDu hast den Spieler §e#0# §awegen §c#1# §agemutet§7.",
-		"message.team.playerUnBanned": "{PREFIX} §cDu hast den Spieler §e#0# §cerfolgreich entbannt§7.",
-		"message.team.playerUnMuted": "{PREFIX} §cDu hast den Spieler §e#0# §cerfolgreich entmutet§7.",
+		"message.team.playerBanned": "{PREFIX} §aDu hast §e#0# §agebannt. \nGrund:§c#1#§7.",
+		"message.team.playerMuted": "{PREFIX} §aDu hast §e#0# §agebannt. \nGrund: §c#1#§7.",
+		"message.team.playerUnBanned": "{PREFIX} §cDu hast §e#0# §centbannt§7.",
+		"message.team.playerUnMuted": "{PREFIX} §cDu hast §e#0# §centmutet§7.",
 		"message.team.banIdDoesNotExists": "{PREFIX} §cDiese BanID exestiert nicht.",
 		"message.team.notLoggedIn": "{PREFIX} §cDu bist nicht im Team System eingeloggt.",
 		"message.team.loggedIn": "{PREFIX} §aDu hast dich erfolgreich in das Team System eingeloggt.",
 		"message.team.loggedOut": "{PREFIX} §cDu bist nun vom Team System ausgeloggt.",
 		
-		"message.report.cantReportYourself": "{PREFIX} §cDu kannst dich nicht selber melden§7.",
-		"message.report.playerAlreadyReported": "{PREFIX} §cDieser Spieler wurde bereits gemeldet§7.",
-		"message.report.createdSuccessfully": "{PREFIX} §aYour report was created successfully§7.",
+		"message.report.cantReportYourself": "{PREFIX} §cDu kannst dich nicht selber reporten§7.",
+		"message.report.playerAlreadyReported": "{PREFIX} §cDieser Spieler wurde bereits reportet§7.",
+		"message.report.createdSuccessfully": "{PREFIX} §aDein Report wurde erfolgreich eingereicht§7.",
 		"message.report.claimedSuccessfully": "{PREFIX} §aDu hast diesen Report erfolgreich beansprucht§7.",
 		"message.report.accepted": "{PREFIX} §aDu hast den Report gegen §e#0# §aakzeptiert und der Spieler wurde bestraft§7.",
 		"message.report.denied": "{PREFIX} §cDu hast den Report gegen §e#0# §cabgelehnt und der Spieler wurde nicht bestraft§7.",
