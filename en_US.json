@@ -38,7 +38,7 @@
 		"message.dontRepeatYourself": "{PREFIX} §cPlease don't repeat yourself.",
 		
 		"message.playerNotFound": "{PREFIX} §cThis player isn't online.",
-		"message.playerNotExists": "{PREFIX} §cThis player don't exists.",
+		"message.playerNotExists": "{PREFIX} §cThis player doesn't exists.",
 		
 		"message.pleaseProvideAMessage": "{PREFIX} §cPlease provide a message.",
 		
@@ -48,13 +48,13 @@
 		"message.nick.error": "{PREFIX} §cError whilst nicking. Please report this to an Administrator!",
 		
 		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
-		"message.yourVerifyCode": "{PREFIX} §7Your verification code: §e#0#",
-		"message.alreadyHaveVerifyCode": "{PREFIX} §cYou have already an verify code. §8(§b#0#§8)",
+		"message.yourVerifyCode": "{PREFIX} §7Your verification code is: §e#0#",
+		"message.alreadyHaveVerifyCode": "{PREFIX} §cYou already have a verification code. §8(§b#0#§8)",
 		
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
 		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7coins."
 		
-		"message.yourOnlineTime": "{PREFIX} §7Your playtime is §e#0#§7.",
+		"message.yourOnlineTime": "{PREFIX} §7Your online time is §e#0#§7.",
 		
 		"message.whereAmI.currentlyOnlyOn": "{PREFIX} §7You are currently online on §e#0#§7.",
 		"message.whereIs.currentlyOnlyOn": "{PREFIX} §e#0# §cis online on server §e#1#§7.",
@@ -65,25 +65,25 @@
 		"message.team.playerAlreadyMuted": "{PREFIX} §cThis player is already muted.",
 		"message.team.playerNotBanned": "{PREFIX} §cThis user isn't banned.",
 		"message.team.playerNotMuted": "{PREFIX} §cThis user isn't muted.",
-		"message.team.playerBanned": "{PREFIX} §aYou have banned the player §e#0# §abecause of §c#1#§7.",
-		"message.team.playerMuted": "{PREFIX} §aYou have muted the player §e#0# §abecause of §c#1#§7.",
-		"message.team.playerUnBanned": "{PREFIX} §cYou have unbanned the player §e#0# §csuccessfully§7.",
-		"message.team.playerUnMuted": "{PREFIX} §cYou have unmuted the player §e#0# §csuccessfully§7.",
+		"message.team.playerBanned": "{PREFIX} §aYou banned §e#0#. \n§aReason: §c#1#§7.",
+		"message.team.playerMuted": "{PREFIX} §aYou muted §e#0#. \n§areason: §c#1#§7.",
+		"message.team.playerUnBanned": "{PREFIX} §cYou unbanned §e#0# §csuccessfully§7.",
+		"message.team.playerUnMuted": "{PREFIX} §cYou unmuted §e#0# §csuccessfully§7.",
 		"message.team.banIdDoesNotExists": "{PREFIX} §cThis ban id don't exists.",
-		"message.team.notLoggedIn": "{PREFIX} §cYou are not logged in into the team system.",
-		"message.team.loggedIn": "{PREFIX} §aYou are now logged in into the team system.",
+		"message.team.notLoggedIn": "{PREFIX} §cYou are not logged in to the team system.",
+		"message.team.loggedIn": "{PREFIX} §aYou are now logged in to the team system.",
 		"message.team.loggedOut": "{PREFIX} §cYou are now logged out from the team system.",
 		
 		"message.report.cantReportYourself": "{PREFIX} §cYou can't report yourself§7.",
 		"message.report.playerAlreadyReported": "{PREFIX} §cThis player has already been reported§7.",
 		"message.report.createdSuccessfully": "{PREFIX} §aYour report was created successfully§7.",
-		"message.report.claimedSuccessfully": "{PREFIX} §aYou have claimed this report successfully§7.",
-		"message.report.accepted": "{PREFIX} §aYou have the report against §e#0# §aaccepted and the player was punished§7.",
-		"message.report.denied": "{PREFIX} §cYou have the report against §e#0# §cdenied and the player was not punished§7.",
-		"message.report.currentReportCount": "{PREFIX} §aCurrently are §e#0# §areports opened§7.",
-		"message.report.noReports": "{PREFIX} §cCurrently are no reports open§7.",
+		"message.report.claimedSuccessfully": "{PREFIX} §aYou claimed this report successfully§7.",
+		"message.report.accepted": "{PREFIX} §aYou accepted the report against §e#0# §aand the player was punished§7.",
+		"message.report.denied": "{PREFIX} §cYou denied the report against §e#0# §cand the player was not punished§7.",
+		"message.report.currentReportCount": "{PREFIX} §aThere are currrently §e#0# §areports opene§7.",
+		"message.report.noReports": "{PREFIX} §cThere are no reports open§7.",
 		
-		"message.rank.rankExpired": "{PREFIX} §cYour rank has expired.",
+		"message.rank.rankExpired": "{PREFIX} §cYour rank expired.",
 		
 		"message.game.waitingTimeSkipped": "{PREFIX} §aThe waiting time has been skipped§7.",
 		"message.game.waitingTimeAlreadySkipped": "{PREFIX} §cThe waiting time has already been skipped§7.",
