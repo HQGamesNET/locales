@@ -1,51 +1,102 @@
 {
-        "PREFIX": "§bHQ§fGames§r §8»§r",
-        "localeCode": "se_SE",
-        "name": "Svenska",
-
-        "values": {
-                "raw.second": "Sekunde",
-                "raw.seconds": "Sekunder",
-                "raw.minute": "Minut",
-                "raw.minutes": "Minuter",
-                "raw.hour": "Timme",
-                "raw.hours": "Timmar",
-                "raw.day": "Dag",
-                "raw.days": "Dagar",
-
-                "ui.title.selectLanguage": "Välj ett språk",
-                "ui.title.clans": "§5Klaner",
-
-                "ui.text.selectLanguage": "Du kan välja språk här",
-
-                "ui.button.close": "§cstäng",
-                "ui.button.back": "§ctillbaka",
-                "ui.button.selectPlus": "§eplus välj",
-                "ui.button.selectMinus": "§eminus välj",
-                "ui.button.clans.search": "§3Sök klaner",
-                "ui.button.clans.info": "§3Klaninformation",
-                "ui.button.clans.invite": "§3Bjud in spelare",
-                "ui.button.clans.manage": "§3Redigera klan",
-                "ui.button.clans.manage.image": "§3Klanbild",
-                "ui.button.clans.manage.tag_color": "§3taggfärg",
-                "ui.button.clans.manage.clam_color": "§3Klämmans färg",
-                "ui.button.clans.manage.members": "§3Redigera medlem",
-                "ui.button.clans.manage.delete": "Ta bort klan",
-
-                "languageApi.wasUpdated": "{PREFIX} §7Ditt språk har ändrats till §e#0#.",
-                "languageApi.errorUpdateLanguage": "{PREFIX} §cEtt fel har inträffat när du uppdaterade ditt språk.",
-                "message.alreadyVerified": "{PREFIX} §cDu är redan verifierad.",
-                "message.playerNotFound": "{PREFIX} §cDenna spelare är inte online.",
-                "message.notEnoughCoins": "{PREFIX} §cDu har inte tillräckligt med mynt.",
-                "message.onlyNickInLobby": "{PREFIX} §cDu kan bara ge dig själv ett smeknamn i lobbyn.",
-                "message.nickEnabled": "{PREFIX} §aDu har nu ett smeknamn.",
-                "message.nickDisabled": "{PREFIX} §cDitt smeknamn har tagits bort.",
-                "message.verifyCodeExpiresIn": "{PREFIX} §7Din verifieringskod §8(§e#0#§8) §7upphör att gälla om §e#1#§7.",
-                "message.notEnoughCoins": "{PREFIX} §cDu har inte tillräckligt med mynt.",
-                "message.boughtBoots": "{PREFIX} §7Du köpte §e#0# §7-stövlarna.",
-                "message.boughtParticle": "{PREFIX} §7Du köpte §e#0# §7Partiklar.",
-                "message.cancelledPurchase": "{PREFIX} §cDu avbröt köpet.",
-                "message.yourOnlineTime": "{PREFIX} §7Din online-tid är §e#0#§7.",
-                "message.yourCoins": "{PREFIX} §7Du har för närvarande §e#0# §7#1#."
-        }
+	"PREFIX": "§bHQ§fGames§r §8»§r",
+	"localeCode": "se_SE",
+	"name": "Svenska",
+	
+	"values": {
+		"raw.second": "sekund",
+		"raw.seconds": "sekunder",
+		"raw.minute": "minut",
+		"raw.minutes": "minuter",
+		"raw.hour": "timme",
+		"raw.hours": "timmer",
+		"raw.day": "dag",
+		"raw.days": "dagar",
+		
+		"ui.title.selectLanguage": "Välj ett språk",
+		"ui.title.chooseReport": "§cVälj en rapport",
+		
+		"ui.text.selectLanguage": "Här kan du välja språk",
+		"ui.text.reportsOpen": "§cFör närvarande är §7#0# §capporter öppna",
+		
+		"ui.button.close": "§cstänger",
+		"ui.button.back": "§ctillbaka",
+		"ui.button.noReportsFound": "§cInga rapporter hittades",
+		"ui.button.playWithGold": "§7Spela med §6guld",
+		"ui.button.playWithoutGold": "§7Spela utan §6guld",
+		"ui.button.playWithDrops": "§7Spela med §eitemdroppar",
+		"ui.button.playWithoutDrops": "§7Spela utan §eitemdroppar",
+		
+		"languageApi.wasUpdated": "{PREFIX} §7Ditt språk har ändrats till §e#0#§7.",
+		"languageApi.errorUpdateLanguage": "{PREFIX} §cEtt fel uppstod vid val av språk.",
+		
+		"message.commandNotFound": "{PREFIX} §c§cKommandot §4/#0# §chittades inte.",
+		
+		"message.dontAdvertise": "{PREFIX} §cSe till att ditt meddelande inte innehåller någon reklam.",
+		"message.dontUseInsults": "{PREFIX} §cSe till att ditt meddelande inte innehåller några dåliga ord.",
+		"message.chatAgainIn": "{PREFIX} §cDu kan chatta igen om §e#0# §csekunder.",
+		"message.dontRepeatYourself": "{PREFIX} §cVänligen upprepa inte dig själv.",
+		
+		"message.playerNotFound": "{PREFIX} §cDen här spelaren är inte online.",
+		"message.playerNotExists": "{PREFIX} §cDen här spelaren finns inte.",
+		
+		"message.pleaseProvideAMessage": "{PREFIX} §cLämna ett meddelande.",
+		
+		"message.onlyNickInLobby": "{PREFIX} §cKommandot /nick kan endast användas i lobbyn.",
+		"message.nickEnabled": "{PREFIX} §aDu är nickad nu.",
+		"message.nickDisabled": "{PREFIX} §cDitt smeknamn togs bort.",
+		"message.nick.error": "{PREFIX} §cFel vid nicker. Vänligen rapportera detta till en administratör!",
+		
+		"message.alreadyVerified": "{PREFIX} §cDu är redan verifierad.",
+		"message.yourVerifyCode": "{PREFIX} §7Din verifieringskod är: §e#0#",
+		"message.alreadyHaveVerifyCode": "{PREFIX} §cDu har redan en verifieringskod. §8(§b#0#§8)",
+		
+		"message.notEnoughCoins": "{PREFIX} §cDu har inte tillräckligt med mynt.",
+		"message.yourCoins": "{PREFIX} §7Du har för närvarande §e#0# §7mynt."
+		
+		"message.yourOnlineTime": "{PREFIX} §7Din onlinetid är: §e#0#§7.",
+		
+		"message.whereAmI.currentlyOnlyOn": "{PREFIX} §7Du är för närvarande online på §e#0#§7.",
+		"message.whereIs.currentlyOnlyOn": "{PREFIX} §e#0# §cär online på servern §e#1#§7.",
+		
+		"message.team.cantBanYourself": "{PREFIX} §cDu kan inte bannera dig själv.",
+		"message.team.cantBanPlayer": "{PREFIX} §cDu kan inte bannera den här spelaren.",
+		"message.team.playerAlreadyBanned": "{PREFIX} §cDen här spelaren är redan bannade.",
+		"message.team.playerAlreadyMuted": "{PREFIX} §cDenna spelare är redan mutede.",
+		"message.team.playerNotBanned": "{PREFIX} §cDenna spelare är inte bannad.",
+		"message.team.playerNotMuted": "{PREFIX} §cDen här spelaren är inte muted.",
+		"message.team.playerBanned": "{PREFIX} §aDu bannade §e#0#. \n§aResonera: §c#1#§7.",
+		"message.team.playerMuted": "{PREFIX} §aDu mutede §e#0#. \n§aResonera: §c#1#§7.",
+		"message.team.playerUnBanned": "{PREFIX} §cDu unbannade §e#0# §cframgångsrikt§7.",
+		"message.team.playerUnMuted": "{PREFIX} §cYou unmutede §e#0# §cframgångsrikt§7.",
+		"message.team.banIdDoesNotExists": "{PREFIX} §cDetta ban-ID finns inte.",
+		"message.team.notLoggedIn": "{PREFIX} §cDu är inte inloggad i teamsystemet.",
+		"message.team.loggedIn": "{PREFIX} §aDu är nu inloggad i teamsystemet.",
+		"message.team.loggedOut": "{PREFIX} §cDu är nu utloggad från teamsystemet.",
+		
+		"message.report.cantReportYourself": "{PREFIX} §cDu kan inte rapportera själv§7.",
+		"message.report.playerAlreadyReported": "{PREFIX} §cDen här spelaren har redan rapporterats§7.",
+		"message.report.createdSuccessfully": "{PREFIX} §aDin rapport skapades framgångsrikt§7.",
+		"message.report.claimedSuccessfully": "{PREFIX} §aDu gjorde anspråk på den här rapporten framgångsrikt§7.",
+		"message.report.accepted": "{PREFIX} §aDu accepterade anmälan mot §e#0# §aoch spelaren straffades§7.",
+		"message.report.denied": "{PREFIX} §cDu nekade anmälan mot §e#0# §coch spelaren inte straffades§7.",
+		"message.report.currentReportCount": "{PREFIX} §aDet finns för närvarande §e#0# §arapporter öppna§7.",
+		"message.report.noReports": "{PREFIX} §cDet finns inga öppna rapporter§7.",
+		
+		"message.rank.rankExpired": "{PREFIX} §cYour rank expired.",
+		
+		"message.game.waitingTimeSkipped": "{PREFIX} §aThe waiting time has been skipped§7.",
+		"message.game.waitingTimeAlreadySkipped": "{PREFIX} §cThe waiting time has already been skipped§7.",
+		"message.game.gameAlreadyRunning": "{PREFIX} §cThe game has already started§7.",
+		"message.game.countdownNotRunning": "{PREFIX} §cThe countdown has not started yet§7.",
+		"message.game.teamDestroyed": "{PREFIX} §7Team §r#0# §7was destroyed.",
+		"message.game.playerDied": "{PREFIX} §f#0# §cdied.",
+		"message.game.playerKilledBy": "{PREFIX} §f#0# §7was killed by §c#1#§7.",
+		"message.game.nowSpecator": "{PREFIX} §7You are now spectator.",
+		
+		"message.bedwars.youreEliminated": "{PREFIX} §cYou were eliminated because your bed was destroyed.",
+		
+		"message.error.reasonEmpty": "{PREFIX} §cReason can't be empty.",
+		"message.error.playerEmpty": "{PREFIX} §cPlayer name can't be empty."
+	}
 }
