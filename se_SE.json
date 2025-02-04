@@ -83,20 +83,20 @@
 		"message.report.currentReportCount": "{PREFIX} §aDet finns för närvarande §e#0# §arapporter öppna§7.",
 		"message.report.noReports": "{PREFIX} §cDet finns inga öppna rapporter§7.",
 		
-		"message.rank.rankExpired": "{PREFIX} §cYour rank expired.",
+		"message.rank.rankExpired": "{PREFIX} §cDin rang löpte ut.",
 		
-		"message.game.waitingTimeSkipped": "{PREFIX} §aThe waiting time has been skipped§7.",
-		"message.game.waitingTimeAlreadySkipped": "{PREFIX} §cThe waiting time has already been skipped§7.",
-		"message.game.gameAlreadyRunning": "{PREFIX} §cThe game has already started§7.",
-		"message.game.countdownNotRunning": "{PREFIX} §cThe countdown has not started yet§7.",
-		"message.game.teamDestroyed": "{PREFIX} §7Team §r#0# §7was destroyed.",
-		"message.game.playerDied": "{PREFIX} §f#0# §cdied.",
-		"message.game.playerKilledBy": "{PREFIX} §f#0# §7was killed by §c#1#§7.",
-		"message.game.nowSpecator": "{PREFIX} §7You are now spectator.",
+		"message.game.waitingTimeSkipped": "{PREFIX} §aVäntetiden har hoppats över§7.",
+		"message.game.waitingTimeAlreadySkipped": "{PREFIX} §cVäntetiden har redan hoppats över§7.",
+		"message.game.gameAlreadyRunning": "{PREFIX} §cSpelet har redan börjat§7.",
+		"message.game.countdownNotRunning": "{PREFIX} §cNedräkningen har inte börjat än§7.",
+		"message.game.teamDestroyed": "{PREFIX} §7Team §r#0# §7förstördes.",
+		"message.game.playerDied": "{PREFIX} §f#0# §cdog.",
+		"message.game.playerKilledBy": "{PREFIX} §f#0# §7dödades av §c#1#§7.",
+		"message.game.nowSpecator": "{PREFIX} §7Du är en åskådare nu.",
 		
-		"message.bedwars.youreEliminated": "{PREFIX} §cYou were eliminated because your bed was destroyed.",
+		"message.bedwars.youreEliminated": "{PREFIX} §cDu blev eliminerad för att din säng förstördes.",
 		
-		"message.error.reasonEmpty": "{PREFIX} §cReason can't be empty.",
-		"message.error.playerEmpty": "{PREFIX} §cPlayer name can't be empty."
+		"message.error.reasonEmpty": "{PREFIX} §cAnledningen kan inte vara tom.",
+		"message.error.playerEmpty": "{PREFIX} §cSpelarens namn får inte vara tomt."
 	}
 }
