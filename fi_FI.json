@@ -16,8 +16,8 @@
 		"ui.title.selectLanguage": "SValitse kieli",
 		"ui.title.chooseReport": "§cvalitse raportti",
 		
-		"ui.text.selectLanguage": "Täällä voit valitse kielisi.",
-		"ui.text.reportsOpen": "§cTäällä hetkellä avoinna on §7#0# §craporttia.",
+		"ui.text.selectLanguage": "Täällä voit valita kielisi.",
+		"ui.text.reportsOpen": "§cTäällä hetkellä avoinna on §7#0# §cilmoitukset.",
 		
 		"ui.button.close": "§csulje",
 		"ui.button.back": "§ctakaisin",
@@ -54,7 +54,7 @@
 		"message.notEnoughCoins": "{PREFIX} §cSinulla ei ole tarpeeksi kolikoita.",
 		"message.yourCoins": "{PREFIX} §7Sinulla on täällä hetkellä §e#0# §7kolikoa."
 		
-		"message.yourOnlineTime": "{PREFIX} §7Your playtime is §e#0#§7.",
+		"message.yourOnlineTime": "{PREFIX} §7Sinun online-aika on: §e#0#§7.",
 		
 		"message.whereAmI.currentlyOnlyOn": "{PREFIX} §7Olet tällä hetkellä online-tilassa §e#0#§7.",
 		"message.whereIs.currentlyOnlyOn": "{PREFIX} §e#0# §con verkossa palvelimella §e#1#§7.",
@@ -67,10 +67,10 @@
 		"message.team.playerNotMuted": "{PREFIX} §cTätä pelaja ei ole mykistetty.",
 		"message.team.playerBanned": "{PREFIX} §aOlet bannut §e#0#. \n§aSyy: §c#1#§7.",
 		"message.team.playerMuted": "{PREFIX} §aMykisit §e#0# \n§aSyy: §c#1#§7.",
-		"message.team.playerUnBanned": "{PREFIX} §csinä unbannut §e#0#§7.",
-		"message.team.playerUnMuted": "{PREFIX} §cpoistit mykistyksen §e#0# §csuccessfully§7.",
+		"message.team.playerUnBanned": "{PREFIX} §cSinä unbannut §e#0#§7.",
+		"message.team.playerUnMuted": "{PREFIX} §cPoistit mykistyksen §e#0# §csuccessfully§7.",
 		"message.team.banIdDoesNotExists": "{PREFIX} §cTätä kieltotunnusta ei ole olemassa.",
-		"message.team.notLoggedIn": "{PREFIX} §cEt ole kirjautunut tiimijärjestelmään.",
+		"message.team.notLoggedIn": "{PREFIX} §cEt ole kirjautunut sisään tiimijärjestelmään.",
 		"message.team.loggedIn": "{PREFIX} §aOlet nyt kirjautunut sisään tiimijärjestelmään.",
 		"message.team.loggedOut": "{PREFIX} §cOlet nyt kirjautunut ulos tiimijärjestelmästä.",
 		
@@ -81,7 +81,7 @@
 		"message.report.accepted": "{PREFIX} §aHyväksyit raportin §e#0#§a:ää vastaan ja pelaaja rangaistiin§7.",
 		"message.report.denied": "{PREFIX} §cKiistit §e#0#§c:ää vastaan tehdyn ilmoituksen, eikä pelaaja saanut rangaistusta§7.",
 		"message.report.currentReportCount": "{PREFIX} §e#0# §ailmoitukset on täällä hetkellä avoinna§7.",
-		"message.report.noReports": "{PREFIX} §cCurrently are no reports open§7.",
+		"message.report.noReports": "{PREFIX} §cTäällä hetkellä ei ole mitään ilmoitukset avoinna§7.",
 		
 		"message.rank.rankExpired": "{PREFIX} §cSoitosi vanheni.",
 		
