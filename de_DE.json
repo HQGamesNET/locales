@@ -24,7 +24,7 @@
 		"ui.button.noReportsFound": "§cKeine Reports gefunden",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Deine Sprache wurde zu §e#0# §7geändert.",
-		"languageApi.errorUpdateLanguage": "{PREFIX} §cEin fehler ist beim auswählen deiner Sprache aufgetreten.",
+		"languageApi.errorUpdateLanguage": "{PREFIX} §cBei dem auswählen deiner Sprache ist ein Fehler aufgetreten.",
 		
 		"message.commandNotFound": "{PREFIX} §c§cDer Command §4/#0# §cwurde nicht gefunden.",
 		
@@ -41,7 +41,7 @@
 		"message.onlyNickInLobby": "{PREFIX} §cDer /nick Command kann nur in der Lobby benutzt werden.",
 		"message.nickEnabled": "{PREFIX} §aDu bist jetzt genickt.",
 		"message.nickDisabled": "{PREFIX} §cDein Nickname wurde entfernt.",
-		"message.nick.error": "{PREFIX} §cEin fehler ist beim nicken aufgetreten. Bitte melde dies bei einem Administrator!",
+		"message.nick.error": "{PREFIX} §cBei dem nicken ist ein Fehler aufgetreten. Bitte melde dies bei einem Administrator!",
 		
 		"message.alreadyVerified": "{PREFIX} §cDu bist bereits verifiziert.",
 		"message.yourVerifyCode": "{PREFIX} §7Dein Verifizierungscode ist: §e#0#",
@@ -62,7 +62,7 @@
 		"message.team.playerNotBanned": "{PREFIX} §cDieser Spieler ist nicht gebannt.",
 		"message.team.playerNotMuted": "{PREFIX} §cDieser Spieler ist nicht gemuted.",
 		"message.team.playerBanned": "{PREFIX} §aDu hast §e#0# §agebannt. \nGrund:§c#1#§7.",
-		"message.team.playerMuted": "{PREFIX} §aDu hast §e#0# §agebannt. \nGrund: §c#1#§7.",
+		"message.team.playerMuted": "{PREFIX} §aDu hast §e#0# §agemuted. \nGrund: §c#1#§7.",
 		"message.team.playerUnBanned": "{PREFIX} §cDu hast §e#0# §centbannt§7.",
 		"message.team.playerUnMuted": "{PREFIX} §cDu hast §e#0# §centmutet§7.",
 		"message.team.banIdDoesNotExists": "{PREFIX} §cDiese BanID exestiert nicht.",
